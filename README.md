@@ -1,4 +1,4 @@
-# UART_Serial_Communication
+# UART Serial Communication
 Serial Application for UART Communication 
 ![Screenshot](1.png)
 
